@@ -2,7 +2,7 @@
 
 # Hi, I'm Patrick 👋
 
-🎓 I'm a 2nd/3rd year university student studying **Computer Sceince** with a strong interest in **UI/UX, software engineering, and user-centered design**.  
+🎓 I'm a 3rd year university student studying **Computer Sceince** with a strong interest in **UI/UX, software engineering, and user-centered design**.  
 💡 Passionate about creating intuitive, accessible, and visually engaging digital solutions.    
 
 ---
