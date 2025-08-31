@@ -2,6 +2,7 @@
 
 🎓 I'm a 3rd year university student studying **Computer Sceince** with a strong interest in **UI/UX, software engineering, and user-centered design**.  
 💡 Passionate about creating intuitive, accessible, and visually engaging digital solutions.    
+🔭 Recently led the redesign of a school system UI, creating a Figma-based design system with accessibility guidelines.
 
 ---
 
