@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**PatrickStrzelczyk/PatrickStrzelczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Patrick 👋
 
-Here are some ideas to get you started:
+🎓 I'm a 2nd/3rd year university student studying **Computer Sceince** with a strong interest in **UI/UX, software engineering, and user-centered design**.  
+💡 Passionate about creating intuitive, accessible, and visually engaging digital solutions.  
+🌱 Currently learning more about ****.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📄 My CV
+👉 [Patrick's CV](PatrickStrzelczyk_CV) 
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/patrick-strzelczyk-418892371)  
+- Email: [bpatrick276@icloud.com](bpatrick276@icloud.com)  
+
+---
+✨ Always open to learning, collaborating, and exploring new challenges!
+
