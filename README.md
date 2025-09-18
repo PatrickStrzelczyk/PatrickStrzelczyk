@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 Currently working on
-A full-stack UX/UI project: designing and developing a website for an English tutoring business — focusing on research, typography, accessibility, and modern responsive design.
+A full-stack UX/UI project: designing and developing a website for an English tutoring business focusing on research, typography, accessibility, and modern responsive design, in hopes of scaling the business to a broader range of clients.
 
 ---
 ## 📄 My CV
