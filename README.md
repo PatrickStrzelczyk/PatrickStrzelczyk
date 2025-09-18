@@ -6,6 +6,10 @@
 
 ---
 
+### 👨‍💻 Currently working on
+A full-stack UX/UI project: designing and developing a website for an English tutoring business — focusing on research, typography, accessibility, and modern responsive design.
+
+---
 ## 📄 My CV
 👉 [Patrick's CV](PatrickStrzelczyk_CV) 
 
