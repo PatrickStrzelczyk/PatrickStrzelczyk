@@ -11,7 +11,7 @@ A full-stack UX/UI project: designing and developing a website for an English tu
 
 ---
 ## 📄 My CV
-👉 [Patrick's CV](PatrickStrzelczyk_CV) 
+👉 [Patrick's CV](PatrickStrzelczyk_CV.pdf) 
 
 ---
 
