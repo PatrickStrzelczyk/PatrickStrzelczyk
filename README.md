@@ -1,24 +1,97 @@
-## Hi, I'm Patrick 👋
+# Hi, I'm Patrick 👋
 
-🎓 I'm a 3rd year university student studying **Computer Sceince** with a strong interest in **UI/UX, software engineering, and user-centered design**.  
-💡 Passionate about creating intuitive, accessible, and visually engaging digital solutions.    
-🔭 Recently led the redesign of a school system UI, creating a Figma-based design system with accessibility guidelines.
+🎓 I'm a third-year Computer Science student with a passion for designing and building user-centered digital products.
 
----
+My interests sit at the intersection of **UI/UX Design, Frontend Development, and Software Engineering**, where I enjoy transforming ideas into intuitive, accessible, and responsive applications.
 
-### 👨‍💻 Currently working on
-A full-stack UX/UI project: designing and developing a website for an English tutoring business focusing on research, typography, accessibility, and modern responsive design, in hopes of scaling the business to a broader range of clients.
-
----
-## 📄 My CV
-👉 [Patrick's CV](PatrickStrzelczyk_CV.pdf) 
+I'm constantly expanding both my design and development skills by building projects that combine research, thoughtful user experience, and modern technologies.
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/patrick-strzelczyk-418892371)  
-- Email: [bpatrick276@icloud.com](mailto:bpatrick276@icloud.com)  
+## 🚀 What I'm Currently Working On
+
+I'm currently designing and developing a complete website for an English tutoring business.
+
+The project involves:
+
+- 🎨 UX research and wireframing
+- 📱 Responsive UI design in Figma
+- ♿ Accessibility-first design decisions
+- 💻 Full-stack web development
+- 📈 Building a scalable platform for future growth
 
 ---
-✨ Always open to learning, collaborating, and exploring new challenges!
 
+## 💼 Featured Projects
+
+### 🎨 School System Redesign
+- Led a complete UX redesign of a school platform
+- Created a reusable Figma design system
+- Developed accessibility guidelines
+- Conducted UX research and documented design decisions
+
+### 📱 Mobile App Prototype
+- Collaborated within a multidisciplinary team
+- Designed wireframes and interactive Figma prototypes
+- Participated in user research and usability testing
+- Helped coordinate communication throughout the project
+
+### 💪 Workout Tracker
+Built with **React Native**, **Expo**, and **TypeScript**.
+
+Focused on building a clean mobile interface while strengthening my React Native development skills.
+
+---
+
+## 🛠 Technical Skills
+
+### Design
+- Figma
+- Wireframing
+- Interactive Prototyping
+- Design Systems
+- User Research
+- Accessibility (WCAG Fundamentals)
+- Information Architecture
+
+### Programming
+- Java
+- TypeScript
+- JavaScript
+- React Native
+- Expo
+- Git & GitHub
+
+### Currently Learning
+- React
+- Full-Stack Web Development
+- Modern UI Engineering
+- Mobile Application Development
+
+---
+
+## 🌱 About Me
+
+I enjoy solving problems from both a design and development perspective.
+
+Whether I'm creating interfaces in Figma or implementing them in code, my goal is always the same:
+
+> Build software that is intuitive, accessible, and enjoyable to use.
+
+I'm always looking for opportunities to learn, collaborate, and contribute to meaningful projects.
+
+---
+
+## 📄 CV
+
+📎 [Patrick's CV](PatrickStrzelczyk_CV.pdf)
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn:
+https://www.linkedin.com/in/patrick-strzelczyk-418892371
+
+📧 Email:
+bpatrick276@icloud.com
