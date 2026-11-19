@@ -10,15 +10,13 @@ I'm constantly expanding both my design and development skills by building proje
 
 ## 🚀 What I'm Currently Working On
 
-I'm currently designing and developing a complete website for an English tutoring business.
+Im currently working on:
 
-The project involves:
+RoamLog – Developing a travel memory-sharing app using React Native and Expo, focused on creating intuitive mobile experiences for users to document and share their journeys.
 
-- 🎨 UX research and wireframing
-- 📱 Responsive UI design in Figma
-- ♿ Accessibility-first design decisions
-- 💻 Full-stack web development
-- 📈 Building a scalable platform for future growth
+Safe Swimming – Building a game in Unity as a part of my internship, exploring game development, gameplay mechanics, and interactive user experiences.
+
+Mobile App Development – Experimenting with React Native and Expo to build mobile applications and simple games, continuously improving my skills in frontend development, UI/UX design, and problem-solving.
 
 ---
 
